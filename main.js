@@ -1,3 +1,4 @@
-const startServer = require('./app/server')
+/* eslint-disable semi */
+const startServer = require('./app/server');
 
-startServer()
+startServer();
