@@ -1,3 +1,4 @@
+/* eslint-disable comma-dangle */
 /* eslint-disable semi */
 const { nanoid } = require('nanoid');
 const bookselft = require('./books');
