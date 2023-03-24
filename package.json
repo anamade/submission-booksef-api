@@ -14,8 +14,14 @@
     "nanoid": "^3.1.22"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "eslint": "^7.24.0",
     "eslint-config-airbnb-base": "^14.2.1",
+=======
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.2.0",
+    "eslint-config-standard": "^16.0.2",
+>>>>>>> 28530990c96ae32f4dd60977c8cd81efb726ff27
     "eslint-plugin-import": "^2.22.1",
     "nodemon": "^2.0.7"
   }
